@@ -16,4 +16,5 @@ A console-based student management system developed using Java.
 ## Author
 Sejal Dawer  
 B.Tech Computer Science  
-Amity University Noida**
+3rd year
+Amity University Noida

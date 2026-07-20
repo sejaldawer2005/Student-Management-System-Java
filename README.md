@@ -1,4 +1,4 @@
-# Student-Management-System-Ja*# Student Management System (Java)
+# Student-Management-System Student Management System (Java)
 
 A console-based student management system developed using Java.
 
